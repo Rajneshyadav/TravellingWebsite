@@ -126,7 +126,7 @@ const Main = () => {
     <section className="main container section">
       {/* Section Title */}
       <div className="secTitle">
-        <h3  data-aos ="fade-right" className="title">Most Visttied destinations</h3>
+        <h3  data-aos ="fade-right" className="title">Most Visttied Destinations</h3>
       </div>
 
 {/* CARD Deatails */}
