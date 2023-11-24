@@ -11,7 +11,7 @@ provides a clean simple interface.
 ## Live link
 
 
- [Travel With us](https://travelllingwithus.netlify.app/)
+ [Travel With us](https://travelllingwithus.netlify.app/){:target="_blank"}
 
 
 ## Features
